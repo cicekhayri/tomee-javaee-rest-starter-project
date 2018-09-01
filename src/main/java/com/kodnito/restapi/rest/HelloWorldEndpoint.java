@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response;
 
 @RequestScoped
 @Path("hello")
-public class HelloWorldResource {
+public class HelloWorldEndpoint {
 
     @GET
     @Produces("text/plain")
