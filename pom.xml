@@ -8,7 +8,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <tomee.version>7.0.5</tomee.version>
+        <tomee.version>7.1.0</tomee.version>
         <javaee.api>7.0</javaee.api>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
